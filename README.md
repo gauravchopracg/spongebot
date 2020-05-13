@@ -22,6 +22,7 @@ After that, click the 'Save' button at the top. We are now going to create new i
 ![recognized 84dc1d87-picture12-705x552.png](https://cdn-gcp.marutitech.com/wp-media/2019/08/84dc1d87-picture12-705x552.png)
 
 * Specials
+
 ![recognized b2b30f49-picture14-705x581.png](https://cdn-gcp.marutitech.com/wp-media/2019/08/b2b30f49-picture14-705x581.png)
 
 Once We did that, it time for our bot to start taking orders. Click on '+' next to the 'Entities' button in the left menu. Enter the values of the Patty Buns and Toppings separately
