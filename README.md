@@ -39,7 +39,7 @@ We can link them to our bot by creating a new Intent 'Placing Orders', scroll to
 ## Integration
 To test how the chatbot would appear when functional. Navigate to the 'Integraion' section in the left column and toggle to 'Web Demo' and turn it on 
 
-![recognized f8ed98b7-picture19-705x302.png](https://cdn-gcp.marutitech.com/wp-media/2019/08/f8ed98b7-picture19-705x302.png)
+![recognized 07357e62-picture24-705x395.png](https://cdn-gcp.marutitech.com/wp-media/2019/08/07357e62-picture24-705x395.png)
 
 You can check the demo at:
 https://bot.dialogflow.com/c147c066-bf2a-45d0-825b-65d3b216bd8d
